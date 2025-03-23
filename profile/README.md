@@ -8,7 +8,11 @@ This organization contains all the important repositories required to build AOSP
 * [**Kernel Tree (Prebuilt)**](https://github.com/Nothing-2A/device_nothing_pacman-kernel.git) (`android_device_nothing_Pacman-kernel`)
 * [**Vendor Tree (OSS)**](https://github.com/Nothing-2A/proprietary_vendor_nothing_Pacman.git) (`proprietary_vendor_nothing_Pacman`)
 
-People included in the development of the project:
+Main contributors of this project:
 - Utkarsh (Witcher aka imlordutkarsh)
 - Sidharth (sidharthify aka arteryring)
 - Atharv (atharvnegi)
+
+Ex-contributors:
+- Roger AKA R0rt1z2
+- Antonino Scordino 
