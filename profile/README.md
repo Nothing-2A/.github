@@ -10,7 +10,7 @@ This organization contains all the important repositories required to build AOSP
 
 ### OSS Kernel Trees
 * [**Kernel Tree**](https://github.com/Nothing-2A/android_kernel_nothing_mt6886) (`android_kernel_nothing_mt6886`)
-* [**Kernel Modules**](https://github.com/Nothing-2A/android_kernel_modules_nothing_mt6886) (`android_kernel_nothing_mt6886`)
+* [**Kernel Modules**](https://github.com/Nothing-2A/android_kernel_modules_nothing_mt6886) (`android_kernel_modules_nothing_mt6886`)
 
 ### Additional repositories required to build
 * [**Mediatek Sepolicy Vendor**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
