@@ -1,4 +1,4 @@
-## Development for Nothing Phone (2a) `Pacman` (which is renamed `pacman` without the capital P in our trees)
+## Development for Nothing Phone (2a) "`Pacman`" (which is renamed "`pacman`" without the capital P in our trees)
 <img align="right" width="180" height="180" src="https://avatars.githubusercontent.com/u/160396058?s=400&u=386ad56768bc8b4ddf7883c3b91278ff002f049c&v=4">
 
 This organization contains all the important repositories required to build AOSP ROMs for Nothing Phone (2a)
