@@ -15,11 +15,3 @@ This organization contains all the important repositories required to build AOSP
 ### Additional repositories required to build
 * [**Mediatek Sepolicy Vendor**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**Nothing Hardware**](https://github.com/LineageOS/android_hardware_nothing) (`android_hardware_nothing`)
-
-Main contributors of this project:
-- Utkarsh (Witcher aka imlordutkarsh)
-- Sidharth (sidharthify aka arteryring)
-
-Ex-contributors:
-- Roger AKA R0rt1z2
-- Antonino Scordino 
