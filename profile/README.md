@@ -20,7 +20,7 @@ This organization contains all the important repositories required to build AOSP
 
 ### Additional required patches
 * [**Soong**](https://github.com/Nothing-2A/android_build_soong/commit/86857404f7ba8e175e480d79f8bca82d8c71a9b7) (`android_build_soong`)
-* [**QTI vibrator**](https://github.com/Nothing-2A/android_vendor_qcom_opensource_vibrator/commit/8e850d7a66525bd79905509a26100f4f6e47ed4f) (`android_vendor_qcom_opensource_vibrator`)
+* [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/36c9507ecf2a1a798d2e7931d9019bacc3cc6052) (`android_packages_apps_Aperture`)
 
 ### Device kernel repositories
 * [**Kernel source**](https://github.com/Nothing-2A/android_kernel_nothing_mt6886) (`android_kernel_nothing_mt6886`)
