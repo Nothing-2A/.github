@@ -19,8 +19,13 @@ This organization contains all the important repositories required to build AOSP
 * [**Nothing hardware**](https://github.com/Nothing-2A/android_hardware_nothing) (`android_hardware_nothing`)
 
 ### Additional required patches
-* [**Soong**](https://github.com/Nothing-2A/android_build_soong/commit/86857404f7ba8e175e480d79f8bca82d8c71a9b7) (`android_build_soong`)
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/36c9507ecf2a1a798d2e7931d9019bacc3cc6052) (`android_packages_apps_Aperture`)
+
+### Additional optional repositories and patches (NTCamera support)
+* [**Device tree (NTCamera)**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl-ntcamera) (`android_device_nothing_Aerodactyl-ntcamera`)
+* [**Vendor tree (NTCamera)**](https://github.com/Nothing-2A/proprietary_vendor_nothing_Aerodactyl-ntcamera) (`proprietary_vendor_nothing_Aerodactyl-ntcamera`)
+* [**Soong**](https://github.com/Nothing-2A/android_build_soong/commit/86857404f7ba8e175e480d79f8bca82d8c71a9b7) (`android_build_soong`)
+* [**Include NTCamera**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl/commit/435d91dfa026bd1f6b3474ed29cfd2432ba55c3a) (`android_device_nothing_Aerodactyl`)
 
 ### Device kernel repositories
 * [**Kernel source**](https://github.com/Nothing-2A/android_kernel_nothing_mt6886) (`android_kernel_nothing_mt6886`)
