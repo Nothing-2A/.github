@@ -18,10 +18,10 @@ This organization contains all the important repositories required to build AOSP
 * [**MediaTek hardware**](https://github.com/Nothing-2A/android_hardware_mediatek) (`android_hardware_mediatek`)
 * [**Nothing hardware**](https://github.com/Nothing-2A/android_hardware_nothing) (`android_hardware_nothing`)
 
-### Additional required patches
+### Required patches
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/36c9507ecf2a1a798d2e7931d9019bacc3cc6052) (`android_packages_apps_Aperture`)
 
-### Additional optional repositories and patches (NTCamera support)
+### Optional repositories and patches (NTCamera support, use at your own risk)
 * [**Device tree (NTCamera)**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl-ntcamera) (`android_device_nothing_Aerodactyl-ntcamera`)
 * [**Vendor tree (NTCamera)**](https://github.com/Nothing-2A/proprietary_vendor_nothing_Aerodactyl-ntcamera) (`proprietary_vendor_nothing_Aerodactyl-ntcamera`)
 * [**Soong**](https://github.com/Nothing-2A/android_build_soong/commit/86857404f7ba8e175e480d79f8bca82d8c71a9b7) (`android_build_soong`)
