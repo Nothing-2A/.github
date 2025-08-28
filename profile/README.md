@@ -21,11 +21,9 @@ This organization contains all the important repositories required to build AOSP
 ### Required patches
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/36c9507ecf2a1a798d2e7931d9019bacc3cc6052) (`android_packages_apps_Aperture`)
 
-### Optional repositories and patches (NTCamera support, use at your own risk)
-* [**Device tree (NTCamera)**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl-ntcamera) (`android_device_nothing_Aerodactyl-ntcamera`)
-* [**Vendor tree (NTCamera)**](https://github.com/Nothing-2A/proprietary_vendor_nothing_Aerodactyl-ntcamera) (`proprietary_vendor_nothing_Aerodactyl-ntcamera`)
-* [**Soong**](https://github.com/Nothing-2A/android_build_soong/commit/86857404f7ba8e175e480d79f8bca82d8c71a9b7) (`android_build_soong`)
-* [**Include NTCamera**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl/commit/435d91dfa026bd1f6b3474ed29cfd2432ba55c3a) (`android_device_nothing_Aerodactyl`)
+### Optional patches (fenrir patched LK support, use at your own risk)
+* [**Allow booting with fenrir patched LKs**](https://github.com/Nothing-2A/android_system_core/commit/8ff6e7a68523c3b870d8dcd5713c71ea15b43dd2) (`android_system_core`)
+* [**Allow flashing images from fastbootd with fenrir patched LKs**](https://github.com/Nothing-2A/android_system_core/commit/0d5990a96c5e6a404887f5575c5d00bcbbaaef74) (`android_system_core`)
 
 ### Device kernel repositories
 * [**Kernel source**](https://github.com/Nothing-2A/android_kernel_nothing_mt6886) (`android_kernel_nothing_mt6886`)
