@@ -9,9 +9,9 @@ This organization contains all the important repositories required to build AOSP
 ### Required device specific repositories
 * [**Device tree**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl) (`android_device_nothing_Aerodactyl`)
 * [**Device kernel tree (Compiled outputs from kernel source)**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl-kernel) (`android_device_nothing_Aerodactyl-kernel`)
-* [**Vendor tree (common)**](https://github.com/Nothing-2A/proprietary_vendor_nothing_Aerodactyl) (`proprietary_vendor_nothing_Aerodactyl`)
-* [**Vendor tree (Pacman)**](https://github.com/Nothing-2A/proprietary_vendor_nothing_Pacman) (`proprietary_vendor_nothing_Pacman`)
-* [**Vendor tree (PacmanPro)**](https://github.com/Nothing-2A/proprietary_vendor_nothing_PacmanPro) (`proprietary_vendor_nothing_PacmanPro`)
+* [**Vendor tree (common)**](https://gitlab.com/nothing-2a/proprietary_vendor_nothing_Aerodactyl) (`proprietary_vendor_nothing_Aerodactyl`)
+* [**Vendor tree (Pacman)**](https://gitlab.com/nothing-2a/proprietary_vendor_nothing_Pacman) (`proprietary_vendor_nothing_Pacman`)
+* [**Vendor tree (PacmanPro)**](https://gitlab.com/nothing-2a/proprietary_vendor_nothing_PacmanPro) (`proprietary_vendor_nothing_PacmanPro`)
 
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/Nothing-2A/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
