@@ -19,9 +19,8 @@ This organization contains all the important repositories required to build AOSP
 * [**Nothing hardware**](https://github.com/Nothing-2A/android_hardware_nothing) (`android_hardware_nothing`)
 
 ### Required patches
-* [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/36c9507ecf2a1a798d2e7931d9019bacc3cc6052) (`android_packages_apps_Aperture`)
+* [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
 * [**Lineage compat hardware**](https://review.lineageos.org/c/LineageOS/android_hardware_lineage_compat/+/447604) (`android_hardware_lineage_compat`)
-* [**UDFPS Dimming**](https://github.com/Nothing-2A/android_frameworks_base/commit/79b3ae0b06ffdbadde3d2106a2bbf895b074ffb2) (`android_frameworks_base`)
 
 ### Optional patches (fenrir patched LK support, use at your own risk)
 * [**Allow booting with fenrir patched LKs**](https://github.com/Nothing-2A/android_system_core/commit/8ff6e7a68523c3b870d8dcd5713c71ea15b43dd2) (`android_system_core`)
