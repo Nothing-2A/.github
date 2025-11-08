@@ -21,6 +21,9 @@ This organization contains all the important repositories required to build AOSP
 ### Required patches
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
 * [**Lineage compat hardware**](https://review.lineageos.org/c/LineageOS/android_hardware_lineage_compat/+/447604) (`android_hardware_lineage_compat`)
+* [**MediaTek changes for wpa_supplicant_8**](https://github.com/Nothing-2A/android_external_wpa_supplicant_8/commit/39200b6c7b1f9ff1c1c6a6a5e4cd08c6f526d048) (`android_external_wpa_supplicant_8`)
+* [**Enable WAPI for wpa_supplicant_8**](https://github.com/Nothing-2A/android_external_wpa_supplicant_8/commit/37a6e255d9d68fb483d12db550028749b280509b) (`android_external_wpa_supplicant_8`)
+* [**Fix libwifi-hal options for MediaTek devices**](https://github.com/Nothing-2A/android_frameworks_opt_net_wifi/commit/3286708bca3580e339149bda8f1953fed06485d9) (`android_frameworks_opt_net_wifi`)
 
 ### Optional patches (fenrir patched LK support, use at your own risk)
 * [**Allow booting with fenrir patched LKs**](https://github.com/Nothing-2A/android_system_core/commit/8ff6e7a68523c3b870d8dcd5713c71ea15b43dd2) (`android_system_core`)
