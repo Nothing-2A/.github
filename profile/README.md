@@ -4,7 +4,7 @@
   <img align="right" width="35%" src="https://www.bouyguestelecom.fr/media/catalog/product/n/o/nothing-phone-2a-plus-argent-dos.png">
 </div>
 
-This organization contains all the important repositories required to build AOSP ROMs for Nothing Phone (2a) and Phone (2a) Plus
+This organization contains all the important repositories required to build custom ROMs for Nothing Phone (2a) and Phone (2a) Plus
 
 ### Required device specific repositories
 * [**Device tree**](https://github.com/Nothing-2A/android_device_nothing_Aerodactyl) (`android_device_nothing_Aerodactyl`)
@@ -16,7 +16,8 @@ This organization contains all the important repositories required to build AOSP
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/Nothing-2A/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**MediaTek hardware**](https://github.com/Nothing-2A/android_hardware_mediatek) (`android_hardware_mediatek`)
-* [**Nothing hardware**](https://github.com/Nothing-2A/android_hardware_nothing) (`android_hardware_nothing`)
+* [**ParanoidGlyph**](https://github.com/Nothing-2A/android_hardware_nothing) (`android_packages_apps_ParanoidGlyph`)
+* [**GlyphAdapter**](https://github.com/Pong-Development/packages_apps_GlyphAdapter) (`android_packages_apps_GlyphAdapter`)
 
 ### Required patches
 * [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
