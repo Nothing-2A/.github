@@ -21,9 +21,10 @@ This organization contains all the important repositories required to build cust
 
 ### Required patches
 * [**Add MTK packages to whitelist**](https://github.com/Nothing-2A/android_build_soong/commit/1d9d22c82c32e207d188a406c61c3d7912ceed31) (`android_build_soong`)
-* [**Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
+* [**Add a stub of TelephonyMetrics**](https://github.com/Nothing-2A/android_hardware_lineage_compat/commit/0d01b8f5594788cb73be6e39e7ed415a30fd5879) (`android_hardware_lineage_compat`)
+* [**Add 60FPS recording on Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
 * [**Add dither logic for MTK udfps optical**](https://github.com/Nothing-2A/android_frameworks_native/commit/7b7807349f7b66c61444e32e4a26b025932117d8) (`android_frameworks_native`)
-* [**SystemUI: Reverse MediaTek udfps dimlayer changes**](https://github.com/Nothing-2A/android_frameworks_base/commit/77ad23a18ae3bad622a92411206f0201efc0bebe) (`android_frameworks_base`)
+* [**SystemUI: Reverse MediaTek udfps dimlayer changes**](https://github.com/Nothing-2A/android_frameworks_base/commit/71955520858075bfeb8b52009151ba20401f27e3) (`android_frameworks_base`)
 
 ### Optional patches (fenrir patched LK support, use at your own risk)
 * [**Allow booting with fenrir patched LKs**](https://github.com/Nothing-2A/android_system_core/commit/8ff6e7a68523c3b870d8dcd5713c71ea15b43dd2) (`android_system_core`)
