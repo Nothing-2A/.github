@@ -14,9 +14,10 @@ This organization contains all the important repositories required to build cust
 * [**Vendor tree (PacmanPro)**](https://gitlab.com/nothing-2a/proprietary_vendor_nothing_PacmanPro) (`proprietary_vendor_nothing_PacmanPro`)
 
 ### Other required repositories
-* [**MediaTek sepolicy**](https://github.com/Nothing-2A/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
-* [**MediaTek hardware**](https://github.com/Nothing-2A/android_hardware_mediatek) (`android_hardware_mediatek`)
-* [**ParanoidGlyph**](https://github.com/Nothing-2A/android_packages_apps_ParanoidGlyph) (`android_packages_apps_ParanoidGlyph`)
+* [**MediaTek sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
+* [**MediaTek hardware**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
+* [**Nothing hardware**](https://github.com/Nothing-2A/android_hardware_nothing) (`android_hardware_nothing`)
+* [**ParanoidGlyph**](https://github.com/NullDebris/android_packages_apps_ParanoidGlyph) (`android_packages_apps_ParanoidGlyph`)
 * [**GlyphAdapter**](https://github.com/Pong-Development/packages_apps_GlyphAdapter) (`android_packages_apps_GlyphAdapter`)
 
 ### Required patches
